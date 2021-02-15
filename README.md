@@ -1,2 +1,2 @@
 # Laboratorio-1---HTML
-Primer laboratorio de la clase de desarrollo de aplicacions web con el profesor Jorge Luis Flores Marroquín
+Este repositorio corresponde al primer laboratorio de la clase de desarrollo de aplicacions web con el profesor Jorge Luis Flores Marroquín durante el semestre de febrero a junio de 2020 en el Tecnológico de Monterrey.
